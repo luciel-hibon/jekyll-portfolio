@@ -1,10 +1,11 @@
----
----
+[Accueil](#) [A propos]() [Projets]() [Contact]()
 
-Welcome to My Home Page
+# Bienvenue sur mon portfolio
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+Bonjour ! Je m'appelle Luciel Hibon et voici mon portfolio.
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+## Dans le passé...
+
+J'ai d'abord travaillé médiation numérique, puis en bar et en café/restauration avant de finalement trouver le développement web ! Vous trouverez ici tous mes projets liés au dev/au front end, et l'esthétique en général.
+
 
